@@ -1,0 +1,7 @@
+﻿  CircleCurve.cpp
+  EllipseCurve.cpp
+  HelixCurve.cpp
+  TestTask.cpp
+C:\Users\Леонид\source\repos\TestTask\TestTask\TestTask.cpp(47,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  TestTask.vcxproj -> C:\Users\Леонид\source\repos\TestTask\x64\Debug\TestTask.exe
