@@ -1,4 +1,4 @@
-# TestTask
+# 3D curves programm
 Design a small program in C++ that would implement support of 3D curves hierarchy.
 1. Support a few types of 3D geometric curves – circles, ellipses and 3D helixes. (Simplified definitions are below). Each curve should be able to return a 3D point and a first derivative (3D vector) per parameter t along the curve.
 2. Populate a container (e.g. vector or list) of objects of these types created in random manner with random parameters.
